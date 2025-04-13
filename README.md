@@ -45,7 +45,8 @@ All styling and structure were done manually using these core web technologies.
 For questions, suggestions, or feedback, feel free to contact me:
 
 - **Email**: Waithirasharon@gmail.com  
-- **Phone**: 0110020696  
+- **Phone**: 0110020696 
+-**Helpline**:2234554311 
 - **GitHub**:[https://github.com/sharon472/phography-site]
 
 I’d love to hear your thoughts or contributions!
