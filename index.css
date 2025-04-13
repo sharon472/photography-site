@@ -1,0 +1,37 @@
+.footer{
+    border:1px slategray;
+    margin-top:10px;
+    border-radius:20px;
+    display:flex;
+    background-color: rgb(193, 113, 163);
+    justify-content:space-evenly;
+}
+ .navigation{
+width:99vw;
+background-color: rgb(166, 102, 154);
+border-radius:1px;
+position:fixed;
+top:0%;
+left:0%;
+justify-content:space-evenly;
+align-items: center;
+height: 20px;
+display:flex;
+}
+.header{
+    text-align: center;
+}
+img{
+    width: 350px;
+    height:250px;
+}
+p{
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+} 
+h1{
+    font-family:"playfair display",'Times New Roman', Times, serif;
+}
+h2 {
+text
+}
