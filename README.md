@@ -40,6 +40,12 @@ All styling and structure were done manually using these core web technologies.
 
 ---
 
+## setup instruction
+-Clone the repository from github
+-open the folder in your browser or with vs code
+-double-click 'index.html'to launch the dite
+ ---
+
 ## 📬 Support and Contact Details
 
 For questions, suggestions, or feedback, feel free to contact me:
