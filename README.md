@@ -46,7 +46,7 @@ For questions, suggestions, or feedback, feel free to contact me:
 
 - **Email**: Waithirasharon@gmail.com  
 - **Phone**: 0110020696  
-- **GitHub**: [Sharon Njoroge](https://github.com/sharon472/phography-site)
+- **GitHub**:[https://github.com/sharon472/phography-site]
 
 I’d love to hear your thoughts or contributions!
 
